@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "yatc"
-version = "0.1.0"
+version = "0.1.1"
 description = "Yet another term color library"
 authors = ["Mathew Moon <me@mathewmoon.net>"]
 readme = "README.md"
